@@ -5,7 +5,7 @@
       <uri>model://ground_plane</uri>
     </include>
 
-    <plugin name="gazebo_google_earth_plugin" filename="libOSMPlugin.so">
+    <plugin name="gazebo_geospatial_plugin" filename="gazebo_geospatial_plugin.so">
       <latitude>41.8902</latitude>
       <longitude>12.4922</longitude>
     </plugin>
